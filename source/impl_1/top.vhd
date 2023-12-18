@@ -16,8 +16,6 @@ port(
 ); 
 end top; 
 
- 
-
 architecture synth of top is 
 
 component mypll is
